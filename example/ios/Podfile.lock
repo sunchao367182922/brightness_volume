@@ -1,0 +1,22 @@
+PODS:
+  - brightness_volume (0.0.1):
+    - Flutter
+  - Flutter (1.0.0)
+
+DEPENDENCIES:
+  - brightness_volume (from `.symlinks/plugins/brightness_volume/ios`)
+  - Flutter (from `Flutter`)
+
+EXTERNAL SOURCES:
+  brightness_volume:
+    :path: ".symlinks/plugins/brightness_volume/ios"
+  Flutter:
+    :path: Flutter
+
+SPEC CHECKSUMS:
+  brightness_volume: 6f4851f44145339248c094ad40118022827b571e
+  Flutter: e0871f40cf51350855a761d2e70bf5af5b9b5de7
+
+PODFILE CHECKSUM: 819463e6a0290f5a72f145ba7cde16e8b6ef0796
+
+COCOAPODS: 1.16.2
